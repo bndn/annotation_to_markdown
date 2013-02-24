@@ -42,9 +42,9 @@ Contributions are welcome, and appreciated.
 
 ## License
 
-Copyright © 2013 Benjamin Danon <benjamin@sphax3d.org>
-This work is free. You can redistribute it and/or modify it under the
-terms of the Do What The Fuck You Want To Public License, Version 2,
-as published by Sam Hocevar. See the COPYING file for more details.
+Copyright © 2013 Benjamin Danon <benjamin@sphax3d.org>  
+This work is free. You can redistribute it and/or modify it under the  
+terms of the Do What The Fuck You Want To Public License, Version 2,  
+as published by Sam Hocevar. See the COPYING file for more details.  
 
 Code available on Github at https://github.com/sphax3d/annotation_to_markdown
